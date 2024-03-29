@@ -1,5 +1,5 @@
 
-# Evaluación Integradora del Módulo 3 del Bootcamp Fullstack Java
+# Evaluación Integradora del Módulo 3 del Bootcamp Fullstack Java ![logo de Java]('https://banner2.cleanpng.com/20190623/uxe/kisspng-logo-java-development-kit-portable-network-graphic-5d0f25d6871765.6875406615612738145533.jpg')
 
 Al finalizar el Bootcamp Fullstack Java, se debe presentar un proyecto final, el cual consite en el desarrollo de una billetera digital **"Alke Wallet"**.
 
